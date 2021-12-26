@@ -1,1 +1,2 @@
-# class32-activity
+# PiratesInvasionStage-5
+added sprite animation
